@@ -1,0 +1,5 @@
+Rectangel game
+Pokemon style movement
+Exploration
+Power-ups
+Lots of secrets
